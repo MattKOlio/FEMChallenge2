@@ -144,13 +144,14 @@ body {
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
-    max-width: 75%;
+    width: 75%;
+    max-width: 1140px;
     height: -webkit-fit-content;
     height: -moz-fit-content;
     height: fit-content;
   }
   .container section p {
-    margin-bottom: 5rem;
+    margin-bottom: 6rem;
   }
   .container section .btn:hover,
   .container section .btn:focus {
